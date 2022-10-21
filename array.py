@@ -18,3 +18,4 @@ for i in range(0, dim1):
     for j in range(0, dim2):
         for k in range(0, dim3):
             print("[%d]" % ipppArr[i,j,k])
+   
